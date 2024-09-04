@@ -12,4 +12,4 @@ This project was a great introduction to machine learning!
 ![image](https://github.com/user-attachments/assets/b7c2ee2c-3d71-4128-8c1c-d992e86d6d31)
 
 
-### Used the tutouring guides Dr. A provideded.
+### Used the tutouring guides Dr. A provided.
